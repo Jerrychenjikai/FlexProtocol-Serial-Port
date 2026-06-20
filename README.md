@@ -25,7 +25,7 @@
 
 | 平台 (Platform) | 文件名 (File Name) | 说明 (Description) |
 | :--- | :--- | :--- |
-| **💻 Windows** | `FlexProtocol Serial Port.zip` / `.exe` | 解压即用，绿色免安装。 |
+| **💻 Windows** | `FlexProtocol Serial Port.zip` | 解压即用，绿色免安装。 |
 | **🤖 Android** | `FlexProtocol Serial Port.apk` | 手机/平板直接安装（需开启“允许未知来源安装”）。 |
 
 ---
