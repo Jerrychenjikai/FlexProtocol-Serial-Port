@@ -1,7 +1,7 @@
 # 🚀 FlexProtocol Serial Port
 
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Android-blue?style=flat-square)](#)
-[![Release](https://img.shields.io/github/v/release/你的GitHub用户名/你的公开仓库名?style=flat-square&color=orange)](#)
+[![Release](https://img.shields.io/github/v/release/Jerrychenjikai/FlexProtocol-Serial-Port?style=flat-square&color=orange)](#)
 [![License](https://img.shields.io/badge/License-Commercial-red?style=flat-square)](#)
 
 这是一个专业的**跨平台（Windows 桌面端 & Android 移动端）USB/串口数据采集、动态协议解析与实时可视化分析工具**。本仓库作为官方唯一的公开发行版（Production Releases）分发渠道，不包含任何源代码，仅提供经过安全签名、即开即用的编译成品。
