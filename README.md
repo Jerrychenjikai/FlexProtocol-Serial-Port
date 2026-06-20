@@ -21,7 +21,7 @@
 
 ## 📥 下载安装 / Download
 
-请直接前往本仓库下载最新版本的安装包：
+请直接前往本仓库的[release部分](https://github.com/Jerrychenjikai/FlexProtocol-Serial-Port/releases)下载最新版本的安装包：
 
 | 平台 (Platform) | 文件名 (File Name) | 说明 (Description) |
 | :--- | :--- | :--- |
