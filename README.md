@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/badge/License-Commercial-red?style=flat-square)](#)
 
 这是一个专业的**跨平台（Windows 桌面端 & Android 移动端）串口+蓝牙数据采集、动态协议解析与实时可视化分析工具**。本仓库作为官方唯一的公开发行版分发渠道，不包含任何源代码，仅提供经过安全签名、即开即用的编译成品。
+源代码在[这个仓库](https://github.com/Jerrychenjikai/usb-measurement)里
 
 ---
 
