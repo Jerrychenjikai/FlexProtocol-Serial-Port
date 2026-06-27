@@ -39,7 +39,7 @@
 * **🌍 海外用户 (International Users)**:
     * [Buy on Lemon Squeezy](你的LemonSqueezy商品链接) (支持 Credit Card / PayPal / Apple Pay)
 * **🇨🇳 国内用户 (Mainland China Users)**:
-    * [通过 面包多 购买](https://mbd.pub/o/bread/YZaTmptxZw==) (支持 微信支付 / 支付宝)
+    * [通过 面包多 购买](https://mbd.pub/o/bread/YZaTmpxuag==) (支持 微信支付 / 支付宝)
 
 > **💡 激活说明**：购买成功后，您将获得一个激活码。打开应用，在协议编辑页面触发弹出窗口后粘贴激活码并点击验证，重启软件即可永久解锁全部高级功能（支持完全离线无网环境验证）。
 
